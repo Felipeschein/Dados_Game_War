@@ -1,0 +1,13 @@
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.exe
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.deps.json
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.runtimeconfig.json
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.runtimeconfig.dev.json
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.dll
+C:\Users\felip\source\repos\DadosWar\DadosWar\bin\Debug\netcoreapp3.1\DadosWar.pdb
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.AssemblyInfo.cs
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.dll
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.pdb
+C:\Users\felip\source\repos\DadosWar\DadosWar\obj\Debug\netcoreapp3.1\DadosWar.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5jc3gK5NHZ/rCbzG4ZBgJ5BthhRe7pbc1NDr1kWuOG58wCi1iejYx/GYrLJ1GQh8yDTWSAa6FXD/i/q3TjF4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\repos\\DadosWar\\DadosWar\\DadosWar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
